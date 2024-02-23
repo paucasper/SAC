@@ -6,6 +6,12 @@
 *.ko
 *.obj
 *.elf
+*.prefs
+*.xml
+*.mk
+*.cyclo
+
+
 
 # Linker output
 *.ilk
